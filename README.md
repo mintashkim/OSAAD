@@ -1,5 +1,5 @@
 # Open Set Anomaly Detection for Action Recognition
 
-Official Implementation of "Open Set Anomaly Detection for Action Recognition"
+## Official Implementation of "Open Set Anomaly Detection for Action Recognition"
 
 Abstract: Action recognition is one of the most widely studied topics in video analysis. However, there are challenges for action recognition. Since there are uncountably many types of actions, it is hard to classify into certain set of actions. During classification, unknown actions frequently occur and recent work in open set recognition and out-of-distribution detection provide a clue that we cans distil known actions from datasets. We introduce OpenMax which is a methodology for open set recognition. OpenMax is a layer which estimates the probability of an input data being from unknown classes, that are not in the training dataset. In this research, we conduct anomaly detection in action recognition with OpenMax. Anomaly is defined as unknown classes derived from open set recognition. MoViNets, which is a 3D convolutional network (3D CNN) is used as our video recognition model and dataset is from Kinetics.
