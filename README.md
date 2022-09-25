@@ -1,4 +1,4 @@
-# Open Set Anomaly Detection for Action Recognition
+# Open Set Action Anomaly Detection
 
 ## Official Implementation of "Open Set Anomaly Detection for Action Recognition"
 
